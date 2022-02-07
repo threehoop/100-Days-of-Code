@@ -1,8 +1,1 @@
-Time spent coding: 1.5 hrs
-Total time coding: 1.5 hrs
-Tasks:
-Eloquent JavaScript Chapters 1-4 review and exercises
-
-//Personal Comments
-Considering that I have not coded in JavaScript for a while, I have decided to brush up on my material by doing exercises from 
-"Eloquent JavaScript" by Marijn Haverbeke.
+Today I went through basic JS on freecodecamp, as well as learning the basics of video game dev on YT. I believe in 100 days, I could build a very fun game.
